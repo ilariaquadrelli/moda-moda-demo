@@ -1,0 +1,38 @@
+[
+  {
+    "file": "atelier-ai.jpg",
+    "origine": "Generata con AI, ritaglio da originale-ai-con-provenienza.png",
+    "strumento": "image_gen integrato in Codex",
+    "data": "2026-10-09",
+    "uso": "Caso didattico fittizio",
+    "didascalia": "Immagine generata con l’AI - esempio illustrativo, non fotografia reale.",
+    "provenienza_tecnica": "Derivato JPEG: metadati dell’originale non garantiti"
+  },
+  {
+    "file": "lavorazione-ai.jpg",
+    "origine": "Generata con AI, ritaglio da originale-ai-con-provenienza.png",
+    "strumento": "image_gen integrato in Codex",
+    "data": "2026-10-09",
+    "uso": "Caso didattico fittizio",
+    "didascalia": "Immagine generata con l’AI - esempio illustrativo, non fotografia reale.",
+    "provenienza_tecnica": "Derivato JPEG: metadati dell’originale non garantiti"
+  },
+  {
+    "file": "abito-crema-ai.jpg",
+    "origine": "Generata con AI, ritaglio da originale-ai-con-provenienza.png",
+    "strumento": "image_gen integrato in Codex",
+    "data": "2026-10-09",
+    "uso": "Caso didattico fittizio",
+    "didascalia": "Immagine generata con l’AI - esempio illustrativo, non fotografia reale.",
+    "provenienza_tecnica": "Derivato JPEG: metadati dell’originale non garantiti"
+  },
+  {
+    "file": "camicia-salvia-ai.jpg",
+    "origine": "Generata con AI, ritaglio da originale-ai-con-provenienza.png",
+    "strumento": "image_gen integrato in Codex",
+    "data": "2026-10-09",
+    "uso": "Caso didattico fittizio",
+    "didascalia": "Immagine generata con l’AI - esempio illustrativo, non fotografia reale.",
+    "provenienza_tecnica": "Derivato JPEG: metadati dell’originale non garantiti"
+  }
+]
